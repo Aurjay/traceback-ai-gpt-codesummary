@@ -1,0 +1,9 @@
+flask
+flask-cors
+langchain
+python-dotenv
+chromadb
+openai
+tiktoken
+google-cloud-storage
+requests

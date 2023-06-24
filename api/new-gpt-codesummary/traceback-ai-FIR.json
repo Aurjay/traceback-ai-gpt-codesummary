@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "traceback-ai-gpt",
+  "private_key_id": "dee78fb4af7306906fe739cc3a093c81a697702a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcqMztncQk2kbB\nUgLFCUJ54loLF1FGx1evrec5K/HAVHmxXM868IvZObPaJl0ta2qKCyduNL/g5LYW\nWjK3vqyzCnu1b3FmXTUhMaMJk0ycsRWekmIXILdTEj5rBDNHwyOH+GZB0kU3T2nX\n6fXXy9oIJ7nUKRgPAqn6eWtQM6e3hC4cWjoMDQUMquloI4PNSdIAGwMwTG1vM/YQ\n0Bdj4LVT2xrl7zhaaDUNSqWC8/rxVNV74C+cLLV8dsmxmocoJLqkx/6TAkQq6WHb\nNppXJWulQunm+v+7pZORAd15AYsO12LT6k3wsSVAOGuXaXDGOIDElNTvH6vsPnwX\nYixJVf5RAgMBAAECggEAH3sdsZDemPtjONWAe6f0ifsXKZnsCJMMGY5P/MIePXhP\n3FQHZLtI2Hb5B9iNVpuKmaM5vulbrrQynkHEFp7neKu4Noxtu1L074VrY0RWm8xP\n702nHPGX9gwWR6JTxps6iH2R6TYcleWIjjtczarRsnQoePJb8lhI8+k6vDiCZxX6\nl1+o7V5VQE6nmU0i+X26XOOoLefdofGgw45LTehiVLpSPUnJ4vzcnhdI2athb8/g\npoBMUmH1cwnDjtD26NOK5FkIHsEjoIFVNqJNIK7EMptIYiG7B5dffYSK4jQjivAS\nPIuOFgpyL/1ufY2x9wwEwJEbQ39jM+5LWp1ZjeAMWQKBgQD/gSNRhtf/CQh3ygIp\nX3tQIZtKKYB3spup0BDer2T7Up8Di4OiRGj+ShNGnfWq6PTlE/vAVXNu0FpvVstg\n3Ad7b8sOVxMBbX3PHY/XZtbkC2y195iHIyN0pfIgK8hgVJj10wyfIAyjy+uaOT1I\nqiLIT25+LNGiw+s53rncgyk9dwKBgQDdFlyFDJeu0dxhvRqcO4SyGGEHPCGPuah8\nvL94xJdRmmD4+PKlO6afw9JCVrjm+Lt77Bw2QM1SlSIkIIfqSWstW8J/U4Bc0KtS\nIC1Byghp4j4p7h8/4jQPH4Uh7c30fHxhmLgnyhyWMjdIxWOIFSF/0gaHQl5/yPK8\nzXlg01P0dwKBgQCIiawkDxkyMtORoCQTk/DD25Guygra7Fl/H69EMRqXq4lKTa3k\ncwZgjZlLbXIxCRiFqm4oVAHBwBnz0cARXMOq1Qz/9swzQR2wJq4Nf+lqKCjJ/SxH\nWyHBXkTLqFoGEG9FPqlKB8h5Z6nZ2qjDQhggT0JOrwjAIE59uGY+TuEk9QKBgCng\n2HmjXwAQZIxnA6lgZMxPbeGu9DSDWHT4U9SOeJNOiNvgXCYMXI2azDMgtjmaF/lr\nShTExZ/E/AiX2Ob6LUEURo1TxdbO+ATAb5IssNdNsbTDlEvHj1DmCZPZtc9/3Ren\nlAqFcFDLBknUifv29Ld/kxj/62KNL92vljRPE3IVAoGAYO8WG6HR8FTdegTonBQ2\nkSJqaxBIYuQT8tr9WE0jSRlyYuCB6Fdr6d4pBZt2pRMSY9BymVfboDc+TlCJfH/t\nOn/YGmZQtaVUByTdnXYGwr5L7FNlFoITSaJmasR0aQav9xBnIoFnzSOv3TUiy4PD\nin+FoXAKI+Wg+uWqI9fbPSA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fir-service-account@traceback-ai-gpt.iam.gserviceaccount.com",
+  "client_id": "107740904109106557068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fir-service-account%40traceback-ai-gpt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
